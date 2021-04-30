@@ -1,0 +1,118 @@
+.color a{
+	color:#4AC20E;
+}
+li{
+	font-style:none;
+	margin:7px;
+	margin-right:2;
+}
+.front{
+	border:3px solid #4AC20E;
+	color:#3D58A6;
+	list-style:20px;
+	margin-right:20px;
+}
+h1{
+	color:blue;
+	border:3px solid green;
+	border-radius:30px;
+	padding:2px;
+	width:130px
+	height:50px;
+	margin:20px;
+}
+h3 {
+	color:blue;
+	border-bottom:5px solid blue; 
+	width:150px;
+	margin:20px;
+}
+
+p{
+	color:blue;
+	margin:20px;
+}
+img{
+	margin:20px;
+}
+p a{
+	color:#3D58A6;
+}
+
+footer{
+	color:#3D58A6;
+	margin-top:150px;
+	text-align:center;
+}
+p span{
+	padding-left:10px;
+}
+pre{
+	border-top:2px solid blue;
+	font-size:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	         
+}
